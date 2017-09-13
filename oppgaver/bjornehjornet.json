@@ -1,0 +1,16 @@
+{
+    "answer": {
+        "text": "Bjørn"
+    },
+    "content": {
+        "alternatives": [
+            "Bjørn",
+            "Rev",
+            "Ugle",
+            "Torsk"
+        ],
+        "question": "Hvilket dyr har et hjørne i realfagsbiblioteket?"
+    },
+    "name": "Bjørnehjørnet",
+    "type": "MultipleChoiceQuestion"
+}

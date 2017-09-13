@@ -1,0 +1,16 @@
+{
+    "answer": {
+        "text": "Klokken 22"
+    },
+    "content": {
+        "alternatives": [
+            "Klokken 18",
+            "Klokken 20",
+            "Klokken 22",
+            "Klokken 23"
+        ],
+        "question": "Når stenger Realfagsbiblioteket på hverdager?"
+    },
+    "name": "NårStengerRealfagsbiblioteket",
+    "type": "MultipleChoiceQuestion"
+}
