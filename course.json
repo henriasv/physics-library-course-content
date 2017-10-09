@@ -1,5 +1,7 @@
 {
   "name": "fysikk2",
+  "header" : "/images/uio_realfagsbiblioteket.svg",
+  "headertext" : "Innføring i biblioteket for fysikere",
   "modules": [
     {
       "id": "biblioteket",
@@ -8,17 +10,17 @@
     },
     {
       "id": "litteratursok",
-      "image": "/images/discoveredonceagain.jpg",
+      "image": "/images/litteratursok.jpg",
       "name": "1.1 Litteratursøk"
     },
     {
       "id": "referering",
-      "image": "/images/discoveredonceagain.jpg",
+      "image": "/images/referansehandtering.jpg",
       "name": "1.2 Referansehåndtering"
     },
     {
       "id": "test",
-      "image": "/images/discoveredonceagain.jpg",
+      "image": "/images/prove.jpg",
       "name": "1.3 Prøve"
     }
   ]
