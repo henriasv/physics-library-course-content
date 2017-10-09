@@ -1,0 +1,10 @@
+{
+    "content": {
+        "question": "I 1992 publiserte blant andre Kip Thorne og Rainer Weiss en artikkel i Science om et måleinstrument. Hva heter måleinstrumentet?"
+    },
+    "answer": {
+        "regex": "/^(?i)LIGO$/"
+    },
+    "type": "TextFieldQuestionRegex",
+    "name": "LIGO"
+}
