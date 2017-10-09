@@ -1,1 +1,1 @@
-Her håper vi å få på plass en prøve på et eller annet tidspunkt. Potensielt kan vi ønske oss innlogging her slik at vi kan godkjenne kurs. 
+Her håper vi å få på plass en prøve på et eller annet tidspunkt. Potensielt kan vi ønske oss innlogging her slik at vi kan godkjenne kurs. Det vil også være fint for å måle hvor godt kurset fungerer. 
