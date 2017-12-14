@@ -1,26 +1,27 @@
 {
-  "name": "fysikk2",
-  "header" : "/images/uio_realfagsbiblioteket.svg",
+  "repo": "henriasv/physics-library-course-content",
+  "header" : "uio_realfagsbiblioteket.svg",
   "headertext" : "Innføring i biblioteket for fysikere",
+  "footer" : "footer_ub.svg",
   "modules": [
     {
       "id": "biblioteket",
-      "image": "/images/biblioteket.jpg",
+      "image": "biblioteket.jpg",
       "name": "1.0 Biblioteket"
     },
     {
       "id": "litteratursok",
-      "image": "/images/litteratursok.jpg",
+      "image": "litteratursok.jpg",
       "name": "1.1 Litteratursøk"
     },
     {
       "id": "referering",
-      "image": "/images/referansehandtering.jpg",
+      "image": "referansehandtering.jpg",
       "name": "1.2 Referansehåndtering"
     },
     {
       "id": "test",
-      "image": "/images/prove.jpg",
+      "image": "prove.jpg",
       "name": "1.3 Prøve"
     }
   ]

@@ -4,10 +4,5 @@ Realfagsbibliotekets lokaler finnes i Vilhelm Bjerknes' hus. I denne modulen vil
 
 Gjør deg kjent med realfagsbibliotekets [nettsider](https://www.ub.uio.no/bibliotekene/ureal/ureal/) og bruk informasjonen der til å besvare oppgavene under: 
 
-<div>
-<multiple-choice-question name="NårStengerRealfagsbiblioteket" number=1.0.1></multiple-choice-question>
-</div>
+<quiz :exercises="['NårStengerRealfagsbiblioteket', 'Bjørnehjørnet']"></quiz>
 
-<div>
-<multiple-choice-question name="Bjørnehjørnet" number=1.0.1></multiple-choice-question>
-</div>

@@ -1,11 +1,10 @@
 {
+    "type": "TextFieldQuestionRegex",
     "content": {
         "question": "Skriv inn en vilkårlig referanse til en tidsskriftartikkel med én forfatter i Harvard-stil"
     },
     "answer": {
         "comment": "Last name, First initial. (Year published). Article title. Journal, Volume (Issue), Page(s).",
         "regex": "/^[A-å]+[,]\\s?[A-å][.]\\s?[(]\\d{4}[)][.]\\s?[A-å|\\s]+[.]\\s?[A-å|\\s]+[,]\\s?\\d+\\s?[(]\\d+[)][,]\\s?\\d+(?:[-]\\d+)?$/"
-    },
-    "type": "TextFieldQuestionRegex",
-    "name": "harvardReferanse"
+    }
 }

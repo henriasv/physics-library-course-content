@@ -1,7 +1,5 @@
 {
-    "answer": {
-        "text": "Bjørn"
-    },
+    "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
             "Bjørn",
@@ -11,6 +9,7 @@
         ],
         "question": "Hvilket dyr har et hjørne i realfagsbiblioteket?"
     },
-    "name": "Bjørnehjørnet",
-    "type": "MultipleChoiceQuestion"
+    "answer": {
+        "text": "Bjørn"
+    }
 }
