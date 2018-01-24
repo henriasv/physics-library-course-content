@@ -5,24 +5,29 @@
   "footer" : "footer_ub.svg",
   "modules": [
     {
+      "id": "introduksjon",
+      "image": "biblioteket.jpg",
+      "name": "Introduksjon"
+    },
+    {
       "id": "biblioteket",
       "image": "biblioteket.jpg",
-      "name": "1.0 Biblioteket"
+      "name": "Biblioteket"
     },
     {
       "id": "litteratursok",
       "image": "litteratursok.jpg",
-      "name": "1.1 Litteratursøk"
+      "name": "Litteratursøk"
     },
     {
       "id": "referering",
       "image": "referansehandtering.jpg",
-      "name": "1.2 Referansehåndtering"
+      "name": "Referansehåndtering"
     },
     {
       "id": "test",
       "image": "prove.jpg",
-      "name": "1.3 Prøve"
+      "name": "Prøve"
     }
   ]
 }
