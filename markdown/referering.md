@@ -1,3 +1,6 @@
+
+## Kildehenvisning på universitetet (vs. vgs)
+
 ## Kunnskapens tre
 Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. 
 
@@ -18,3 +21,5 @@ Det finnes mange referansestiler. Videoen under forklarer hvordan man bruker Har
 <text-field-question-regex name="harvardReferanse" number="1.2.1"></text-field-question-regex>
 </div>
 
+## Oppgaver
+Sett inn referansene i denne teksten. Hva som skal refereres til er oppgitt under, og du trenger kun å sette inn sitering på rett sted og å generere referanselista. Poenget med oppgaven er å trene på å bruke referansehåndteringsverktøy, slik at ikke første møte blir når du stanger mot en innleveringsfrist. 
