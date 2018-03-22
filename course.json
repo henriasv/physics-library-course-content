@@ -1,7 +1,7 @@
 {
   "repo": "henriasv/physics-library-course-content",
-  "header" : "uio_realfagsbiblioteket.svg",
-  "headertext" : "Innføring i biblioteket for fysikere",
+  "header" : "uio_realfagsbiblioteket_min.svg",
+  "headertext" : "Innføring i <br>biblioteket for fysikere",
   "footer" : "footer_ub.svg",
   "modules": [
     {
