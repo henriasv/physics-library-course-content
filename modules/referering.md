@@ -15,7 +15,6 @@ På universitetet skal man læres opp til standarder for vitenskapelig redelighe
 Dette er et eksempel som oppfyller kravene. 
 
 ### Verktøy for referansehåndtering
-
 Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi programmer til å gjøre for oss. To populære alternativer er [Zotero](http://www.zotero.org) og [Mendeley](http://www.mendeley.com). Det finnes en guide til å komme i gang med Zotero på Universitetsbibliotekets [nettsider](http://www.ub.uio.no/english/writing-publishing/referencing/zotero/). 
 
 
@@ -33,17 +32,13 @@ Det finnes mange referansestiler. Videoen under forklarer hvordan man bruker Har
  
 <youtube-video id="iueqJ78iAwk"></youtube-video>
 
-<quiz :exercises="['harvardReferanse']"></quiz>
-<quiz :exercises="['SettInnReferansene', 'NårStengerRealfagsbiblioteket']"></quiz>
-<quiz :exercises="['SettInnReferansene', 'NårStengerRealfagsbiblioteket']"></quiz>  
+<quiz :exercises="['harvardReferanse', 'SettInnReferansene']"></quiz>
 
 ### Oppgaver
 Sett inn referansene i denne teksten. Hva som skal refereres til er oppgitt under, og du trenger kun å sette inn sitering på rett sted og å generere referanselista. Poenget med oppgaven er å trene på å bruke referansehåndteringsverktøy, slik at ikke første møte blir når du stanger mot en innleveringsfrist. 
 
 Chaohui Gong, Matthew J. Travers, Henry C. Astley, Lu Li, Joseph R. Mendelson, , Daniel I. Goldman, Howie Choset, The International Journal of Robotics Research, Vol 35, Issue 1-3, pp. 100 - 113 [lenke](http://journals.sagepub.com/doi/full/10.1177/0278364915593793)</footer>
 </blockquote>
-
-
 
 
 <div class="alert alert-primary">
