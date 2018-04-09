@@ -1,10 +1,15 @@
 ### Kunnskapens tre
-Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. 
+Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. Vi skal ikke bruke mer tid på å argumentere for hvorfor vi refererer, mne heller gå over på hvordan man gjør det riktig. 
+
+### Hvordan referere
+Hvordan referere besvares best oppdelt i to. Den ene delen handler om å identifisere hvilke situasjoner som krever en referanse, og hvordan man skriver den inn i teksten sin. Den andre delen er en mer teknisk del om hvordan man vil at referansene skal se ut (eg. tall, bokstaver, fotnoter, liste på slutten eller på hver side) og hvilken programvare man bør bruke for å få det til å se ut som man vil. 
 
 En referanseliste kan for eksempel se slik ut:
 
-### Kildehenvisning på universitetet (vs. vgs)
+<div class="alert alert-primary">
+<h4> Kildehenvisning på universitetet (vs. vgs)</h4>
 På universitetet skal man læres opp til standarder for vitenskapelig redelighet. Det innebærer i hovedsak at man skal oppgi sine kilder på en måte som gjør at de er gjenfinnbare, og at man skal vise til dem på en konsekvent måte. Dette er i utgangspunktet også kravet på videregående skole, men erfaringen tilsier at man ikke har fått nok trening. Derfor ser vi ofte kildehenvisninger i form av en liste med bøker og lenker, uten at det er vist i selve teksten hva som bruker hvilken kilde. Dessuten økter kravene til at man skal bruke en hensiktsmessig stil på det hele (formkrav). 
+</div>
 
 ### Et eksempel
 Dette er et eksempel som oppfyller kravene. 
@@ -29,9 +34,19 @@ Det finnes mange referansestiler. Videoen under forklarer hvordan man bruker Har
 <youtube-video id="iueqJ78iAwk"></youtube-video>
 
 <quiz :exercises="['harvardReferanse']"></quiz>
+<quiz :exercises="['SettInnReferansene', 'NårStengerRealfagsbiblioteket']"></quiz>
+<quiz :exercises="['SettInnReferansene', 'NårStengerRealfagsbiblioteket']"></quiz>  
 
 ### Oppgaver
 Sett inn referansene i denne teksten. Hva som skal refereres til er oppgitt under, og du trenger kun å sette inn sitering på rett sted og å generere referanselista. Poenget med oppgaven er å trene på å bruke referansehåndteringsverktøy, slik at ikke første møte blir når du stanger mot en innleveringsfrist. 
 
-### P.S. om stil av ymse slag
-Det er ofte spørsmål om konvensjoner for føring av forskjellige symboler, hvilke bokstaver som skal være rette og hvilke som skal være i kursiv etc. Det er sjelden spesielt viktig hva man velger (så lenge det er lesbart), men det er viktig å være konsekvent. Et eksempel på en konsekvent guide er den fra American Physical Society (APS): https://journals.aps.org/authors/frequently-used-memos.  
+Chaohui Gong, Matthew J. Travers, Henry C. Astley, Lu Li, Joseph R. Mendelson, , Daniel I. Goldman, Howie Choset, The International Journal of Robotics Research, Vol 35, Issue 1-3, pp. 100 - 113 [lenke](http://journals.sagepub.com/doi/full/10.1177/0278364915593793)</footer>
+</blockquote>
+
+
+
+
+<div class="alert alert-primary">
+<h4>P.S. om stil av ymse slag</h4>
+Det er ofte spørsmål om konvensjoner for føring av forskjellige symboler, hvilke bokstaver som skal være rette og hvilke som skal være i kursiv etc. Det er sjelden spesielt viktig hva man velger (så lenge det er lesbart), men det er viktig å være konsekvent. Et eksempel på en konsekvent guide er den fra <a href="https://journals.aps.org/authors/frequently-used-memos">American Physical Society (APS)</a>
+</div>
