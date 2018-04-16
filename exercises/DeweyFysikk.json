@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "5XX",
+            "6XX",
+            "7XX",
+            "4XX"
+        ],
+        "question": "På hvilke Dewey-nummere finner du fysikk-bøker?"
+    },
+    "answer": {
+        "text": "5XX"
+    }
+}

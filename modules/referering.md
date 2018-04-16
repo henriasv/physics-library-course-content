@@ -1,7 +1,7 @@
-### Kunnskapens tre
-Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. Vi skal ikke bruke mer tid på å argumentere for hvorfor vi refererer, mne heller gå over på hvordan man gjør det riktig. 
+### Referanser kobler forksningsarbeider sammen
+Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. Dessuten sørger det for at man krediterer rett person for å ha gjort et arbeid. Vi skal ikke bruke mer tid på å argumentere for hvorfor vi refererer, men heller gå over på hvordan man gjør det riktig. 
 
-### Hvordan referere
+### Hvordan referere?
 Hvordan referere besvares best oppdelt i to. Den ene delen handler om å identifisere hvilke situasjoner som krever en referanse, og hvordan man skriver den inn i teksten sin. Den andre delen er en mer teknisk del om hvordan man vil at referansene skal se ut (eg. tall, bokstaver, fotnoter, liste på slutten eller på hver side) og hvilken programvare man bør bruke for å få det til å se ut som man vil. 
 
 En referanseliste kan for eksempel se slik ut:
@@ -20,9 +20,13 @@ Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi
 
 ### Hvordan skal en referanse se ut?
 Det er i utgangspunktet *to* krav til en referanse:
-    
-    1. Den skal gjøre det mulig å finne det som refereres til.
-    2. Referanser i et dokument skal føres på en konsekvent måte.
+
+<div>
+<ol>
+  <li>Den skal gjøre det mulig å finne det som refereres til.</li>
+  <li>Referanser i et dokument skal føres på en konsekvent måte.</li>
+</ol>
+</div>
 
 I tillegg til dette vil de fleste publikasjonskanaler ha egne regler for hvilken stil man skal bruke. 
 

@@ -2,13 +2,13 @@
     "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
-            "svingninger AND bølger",
-            "svingninger OR bølger",
-            "svingininger XOR bølger"
+            "svingning*",
+            "svingninger",
+            "svingining"
         ],
         "question": "Hvilken søkestreng vil generelt sett gi flest treff?"
     },
     "answer": {
-        "text": "svingninger OR bølger"
+        "text": "svingning*"
     }
 }
