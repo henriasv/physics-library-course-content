@@ -2,6 +2,6 @@ Realfagsbibliotekets lokaler finnes i Vilhelm Bjerknes' hus. I denne modulen vil
 
 Gjør deg kjent med realfagsbibliotekets [nettsider](https://www.ub.uio.no/bibliotekene/ureal/ureal/) og realfagsbibliotekets fagsider i [fysikk](http://www.ub.uio.no/fag/naturvitenskap-teknologi/fysikk/). Bruk informasjonen der til å besvare oppgavene under: 
 
-<quiz :exercises="['NårStengerRealfagsbiblioteket', 'Bjørnehjørnet', 'DeweyFysikk']"></quiz>
+<quiz-with-navigation :exercises="['NårStengerRealfagsbiblioteket', 'Bjørnehjørnet', 'DeweyFysikk']"></quiz-with-navigation>
 
 

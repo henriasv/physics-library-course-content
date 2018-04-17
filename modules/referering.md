@@ -36,7 +36,7 @@ Det finnes mange referansestiler. Videoen under forklarer hvordan man bruker Har
  
 <youtube-video id="iueqJ78iAwk"></youtube-video>
 
-<quiz :exercises="['harvardReferanse', 'SettInnReferansene']"></quiz>
+<quiz-with-navigation :exercises="['HarvardReferenceAlternatives', 'SettInnReferansene']"></quiz-with-navigation>
 
 ### Oppgaver
 Sett inn referansene i denne teksten. Hva som skal refereres til er oppgitt under, og du trenger kun å sette inn sitering på rett sted og å generere referanselista. Poenget med oppgaven er å trene på å bruke referansehåndteringsverktøy, slik at ikke første møte blir når du stanger mot en innleveringsfrist. 
