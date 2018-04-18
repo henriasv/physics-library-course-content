@@ -1,4 +1,4 @@
-Realfagsbibliotekets lokaler finnes i Vilhelm Bjerknes' hus. I denne modulen vil vi at du skal gjøre deg kjent med det fysiske biblioteket ob bibliotekets tjenester. 
+Realfagsbibliotekets lokaler finnes i Vilhelm Bjerknes' hus. I denne modulen vil vi at du skal gjøre deg kjent med det fysiske biblioteket og bibliotekets tjenester. 
 
 Gjør deg kjent med realfagsbibliotekets [nettsider](https://www.ub.uio.no/bibliotekene/ureal/ureal/) og realfagsbibliotekets fagsider i [fysikk](http://www.ub.uio.no/fag/naturvitenskap-teknologi/fysikk/). Bruk informasjonen der til å besvare oppgavene under: 
 

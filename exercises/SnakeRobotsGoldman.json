@@ -1,0 +1,10 @@
+{
+    "type": "TextFieldQuestionRegex",
+    "content": {
+        "question": "Daniel Goldman er medforfatter på en artikkel fra 2016 med slangeroboter i tittelen. Hvem er førsteforfatteren?"
+    },
+    "answer": {
+        "regex": "/^(?i)c(haohui)?[ ]+(?i)gong?$|(?i)gong[,]?[ ]+(?i)c(haohui)?$/"
+    }
+
+}
