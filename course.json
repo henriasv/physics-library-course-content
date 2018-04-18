@@ -1,27 +1,27 @@
 {
   "repo": "henriasv/physics-library-course-content",
   "header" : "uio_realfagsbiblioteket_min.svg",
-  "headertext" : "Innføring i <br>biblioteket for fysikere",
+  "headertext" : "Innføring i <br>informasjonsbruk for fysikere",
   "footer" : "footer_ub.svg",
   "modules": [
     {
       "id": "introduksjon",
-      "image": "biblioteket.jpg",
+      "image": "introduksjon_low.jpg",
       "name": "Introduksjon"
     },
     {
       "id": "biblioteket",
-      "image": "biblioteket.jpg",
+      "image": "biblioteket_low.jpg",
       "name": "Biblioteket"
     },
     {
       "id": "litteratursok",
-      "image": "litteratursok.jpg",
+      "image": "litteratursok_low.jpg",
       "name": "Litteratursøk"
     },
     {
       "id": "referering",
-      "image": "referansehandtering.jpg",
+      "image": "referansehandtering_low.jpg",
       "name": "Referansehåndtering"
     }
   ]
