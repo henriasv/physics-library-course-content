@@ -1,5 +1,5 @@
 ### Vitenskapelig litteratur
-Vitenskapelig litteratur er vår felles nedtegning av kunnskap. Denne finnes i flere typer, slik som tidsskriftartikler og bøker. Det finnes ekstremt mye vitenskapelig litteratur, og en hovedutfordring er å finne fram til litteratur som er relevant for det den skal brukes til. For å finne fram bruker vi ofte søkemotorer. Det finnes også mange andre nyttige måter å finne fram på, for eksempel i feeden på *ResearchGate* (krever registrering) eller å spørre en fagperson. Hver metode har sine fordeler og ulemper. 
+Vitenskapelig litteratur er vår felles nedtegning av kunnskap. Denne finnes i flere typer, slik som tidsskriftartikler og bøker. Det finnes *mye* vitenskapelig litteratur, og en hovedutfordring er å finne fram til litteratur som er relevant for det den skal brukes til. Dessuten er det viktig å sikre at man ikke bare finner litteratur som belyser et tema fra én side, dersom det finnes flere sider. For å finne fram bruker vi ofte søkemotorer. Det finnes også mange andre nyttige måter å finne fram på, for eksempel i feeden på *ResearchGate* (krever registrering) eller å spørre en fagperson (medstudent, gruppelærer, veileder etc.). Hver metode har sine fordeler og ulemper. 
 
 ### Søkemotorer
 De fleste søkemotorer har en eller annen form for søkespråk. Det innebærer for eksempel at søkestrengen `elektromagnetisk stråling` blir til `elektromagnetisk AND stråling` og søkemotoren leter igjennom tekstene i databasen for å finne tekster som inneholder *både* ordet *elektromagnetisk* og ordet *stråling*. Man kan selv bruke søkemotorens søkespråk aktivt for å lage bedre søk. Det innebærer å bruke logiske operatorer (`AND`, `OR`, `XOR` etc.) og andre operatorer, f.eks. wildcardoperatoren `*`
@@ -15,7 +15,7 @@ Når du sitter på et UiO-nett, for eksempel eduroam, har du tilgang til all lit
 #### Scopus, WebOfScience og Google Scholar
 [Scopus](www.scopus.com), [WebOfScience](www.webofscience.com) og [Google Scholar](scholar.google.com) er svært populære søkemotorer for vitenskapelig litteratur. Scopus og WebOfScience tilbyr manuelt kvalitetskontrollerte databaser, mens Google Scholar gjør det den kan for å søke i alt som ser vitenskapelig ut. Generelt sett kan man si at i Scopus og WebOfScience har brukeren kontroll over søket og rangeringen av resultatene, mens i Google Scholar får man en treffliste som er sortert etter Google sin ranking-algoritme. 
 
-Scopus og WebOfScience har nettsider med hjelp til hvordan man kan lage gode søk. Se etter *search tips* eller *tips to improve search*.
+Scopus og WebOfScience har nettsider med hjelp til hvordan man kan lage gode søk. Se etter *search tips* eller *tips to improve search*. Om du har satt opp et søk du er fornøyd med, er det også mulig å sette opp mail-varslig slik at du får beskjed når det kommer inn nye artikler som passer med søket. 
 
 Bruk Scopus, WebOfScience eller Google Scholar til å løse oppgavene under. 
 

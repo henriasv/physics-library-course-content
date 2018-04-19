@@ -37,7 +37,18 @@ Det er i utgangspunktet *to* krav til en referanse:
 </ol>
 </div>
 
-I tillegg til dette vil de fleste publikasjonskanaler ha egne regler for hvilken stil man skal bruke. 
+I tillegg til dette vil de fleste publikasjonskanaler ha egne regler for hvilken stil man skal bruke. Generelt kreves følgende informasjon i en referanse til en tidsskriftartikkel:
+
+<div>
+<ul>
+  <li>Navn på forfattere (ikke alle om det er mange)</li>
+  <li>Årstall for publisering</li>
+  <li>Tittel på artikkelen</li>
+  <li>Navn på tidsskriftet</li>
+  <li>Utgave av tidsskriftet</li>
+  <li>Sidetall for artikkelen i denne utgaven av tidsskriftet</li>
+</ul>
+</div>
 
 ### Verktøy for referansehåndtering
 Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi programmer til å gjøre for oss. To populære alternativer er [Zotero](https://www.zotero.org) og [Mendeley](https://www.mendeley.com). Det finnes en guide til å komme i gang med Zotero på Universitetsbibliotekets [nettsider](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/). 
@@ -49,8 +60,8 @@ Det finnes mange referansestiler. Du kan lese mer om disse [her](http://sokogskr
 <quiz-with-navigation :exercises="['HarvardReferenceAlternatives', 'SettInnReferansene']"></quiz-with-navigation>
 
 <div class="alert alert-primary">
-<h4>P.S. om stil av ymse slag</h4>
-Det er ofte spørsmål om konvensjoner for føring av forskjellige symboler, hvilke bokstaver som skal være rette og hvilke som skal være i kursiv etc. Det er sjelden spesielt viktig hva man velger (så lenge det er lesbart), men det er viktig å være konsekvent. Et eksempel på en konsekvent guide er den fra <a href="https://journals.aps.org/authors/frequently-used-memos">American Physical Society (APS)</a>
+<h4>Om stil av ymse slag</h4>
+Siden vi allerede er inne på ting som har rigide krav til stil: Det er ofte spørsmål om konvensjoner for føring av forskjellige symboler, hvilke bokstaver som skal være rette og hvilke som skal være i kursiv etc. Det er sjelden spesielt viktig hva man velger (så lenge det er lesbart), men det er viktig å være konsekvent. Det er lettere å være konsekvent om man har en stilguide å følge. Et eksempel på en slik guide er den fra <a href="https://journals.aps.org/authors/frequently-used-memos">American Physical Society (APS)</a>
 </div>
 
 ### Det var det hele
