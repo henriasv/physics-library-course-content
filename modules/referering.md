@@ -2,7 +2,7 @@
 Referanser mellom forskjellige vitenskapelige arbeider gjør det mulig å spore hvor kunnskapen kommer fra. Gode referanser gjør det enkelt å finne ut hvor en påstand eller et faktum er hentet. Derfor er det viktig å kunne håndtere referanser. Dessuten sørger det for at man krediterer rett person for å ha gjort et arbeid. Vi skal ikke bruke mer tid på å argumentere for hvorfor vi refererer, men heller gå over på hvordan man gjør det riktig. 
 
 ### Hvordan referere?
-Hvordan referere besvares best oppdelt i to. Den ene delen handler om å identifisere hvilke situasjoner som krever en referanse, og hvordan man skriver den inn i teksten sin. Dette kan du lese mer om [her](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/) (sokogskriv.no). Den andre delen er en mer teknisk del om hvordan man vil at referansene skal se ut (eg. tall, bokstaver, fotnoter, liste på slutten eller på hver side) og hvilken programvare man bør bruke for å få det til å se ut som man vil. 
+Hvordan referere besvares best oppdelt i to. Den ene delen handler om å identifisere hvilke situasjoner som krever en referanse, og hvordan man skriver den inn i teksten sin. Dette kan du lese mer om på [Søk & Skriv](https://sokogskriv.no/kildebruk-og-referanser/hvordan-referere/) (sokogskriv.no). Den andre delen er en mer teknisk del om hvordan man vil at referansene skal se ut (eg. tall, bokstaver, fotnoter, liste på slutten eller på hver side) og hvilken programvare man bør bruke for å få det til å se ut som man vil. 
 
 En tekst med siteringer og referanseliste kan for eksempel se slik ut:
 
@@ -30,27 +30,19 @@ På universitetet skal man læres opp til standarder for vitenskapelig redelighe
 </div>
 
 ### Hvordan skal en referanse se ut?
-Det er i utgangspunktet *to* krav til en referanse:
+Det er i utgangspunktet *to* krav til referanser:
 
-<div>
-<ol>
-  <li>Den skal gjøre det mulig å finne det som refereres til.</li>
-  <li>Referanser i et dokument skal føres på en konsekvent måte.</li>
-</ol>
-</div>
+1. De skal gjøre det mulig å finne det som refereres til.
+2. Innad i et dokument skal de føres på en konsekvent måte.
 
 I tillegg til dette vil de fleste publikasjonskanaler ha egne regler for hvilken stil man skal bruke. Generelt kreves følgende informasjon i en referanse til en tidsskriftartikkel:
 
-<div>
-<ul>
-  <li>Navn på forfattere (ikke alle om det er mange)</li>
-  <li>Årstall for publisering</li>
-  <li>Tittel på artikkelen</li>
-  <li>Navn på tidsskriftet</li>
-  <li>Utgave av tidsskriftet</li>
-  <li>Sidetall for artikkelen i denne utgaven av tidsskriftet</li>
-</ul>
-</div>
+- Navn på forfattere (ikke alle om det er mange)
+- Årstall for publisering
+- Tittel på artikkelen
+- Navn på tidsskriftet
+- Utgave av tidsskriftet 
+- Sidetall for artikkelen i denne utgaven av tidsskriftet
 
 ### Verktøy for referansehåndtering
 Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi programmer til å gjøre for oss. Tre populære alternativer er [Zotero](https://www.zotero.org), [Mendeley](https://www.mendeley.com) og [EndNote](http://endnote.com). På Universitetsbibliotekets nettsider finnes det guider for [Zotero](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/) og for [EndNote](https://www.ub.uio.no/skrive-publisere/referere/endnote/index.html). 

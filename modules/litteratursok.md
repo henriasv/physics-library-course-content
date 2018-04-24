@@ -5,7 +5,7 @@ Vitenskapelig litteratur er vår felles nedtegning av kunnskap. Denne finnes i f
 De fleste søkemotorer har en eller annen form for søkespråk. Det innebærer for eksempel at søkestrengen `elektromagnetisk stråling` blir til `elektromagnetisk AND stråling` og søkemotoren leter igjennom tekstene i databasen for å finne tekster som inneholder *både* ordet *elektromagnetisk* og ordet *stråling*. Man kan selv bruke søkemotorens søkespråk aktivt for å lage bedre søk. Det innebærer å bruke logiske operatorer (`AND`, `OR`, `XOR` etc.) og andre operatorer, f.eks. wildcardoperatoren `*`
 
 ### Finne bøker på biblioteket
-Universitetsbibliotekes søkemotor [_Oria_](http://www.oria.no) er det enkleste verktøyet for å finne bøker på biblioteket. Dersom du logger inn kan du også *bestille* bøker. På Oria-nettsidene finnes det en guide til hvordan man kan gjøre lure søk. For eksempel kan du, om du er usikker på om tittelen på en bok inneholder ordet `elektromagnetisk` eller `elektromagnetisme`, søke på `elektromagnetis*`
+Universitetsbibliotekes søkemotor [_Oria_](http://www.oria.no) er det enkleste verktøyet for å finne bøker på biblioteket. Dersom du logger inn kan du også *bestille* bøker. På Oria-nettsidene finnes det [en guide](https://www.ub.uio.no/bruk/sok-i-hele-biblioteket/hjelp-til-a-bruke-oria/) til hvordan man kan gjøre lure søk. For eksempel kan du, om du er usikker på om tittelen på en bok inneholder ordet `elektromagnetisk` eller `elektromagnetisme`, søke på `elektromagnetis*`
 
 <quiz-with-navigation :exercises="['HvaGirFlereTreff','HvaGirFlereTreffStjerne', 'OpprinnelseDanBrown']"></quiz-with-navigation>
 
