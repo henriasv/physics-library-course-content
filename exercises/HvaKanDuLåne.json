@@ -2,8 +2,8 @@
     "type": "MultipleChoiceQuestion",
     "content": {
         "alternatives": [
-            "bøker, tidsskrifter, leseplasser, lego, pc, lader, arrangementer mm.",
             "bare bøker",
+            "bøker, tidsskrifter, leseplasser, lego, pc, lader, arrangementer mm.",
             "bøker, tidsskrifter og pc"
         ],
         "question": "I Realfagsbiblioteket finner du"
