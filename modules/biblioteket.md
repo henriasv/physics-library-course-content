@@ -2,4 +2,4 @@ Realfagsbibliotekets lokaler finnes i Vilhelm Bjerknes' hus og i Informatikkbibl
 
 Bruk informasjonen der til å besvare oppgavene under: 
 
-<quiz-with-navigation :exercises="['NårStengerRealfagsbiblioteket', 'Bjørnehjørnet', 'DeweyFysikk']"></quiz-with-navigation>
+<quiz-with-navigation :exercises="['NårStengerRealfagsbiblioteket', 'Bjørnehjørnet', 'DeweyFysikk', 'HvaKanDuLåne', 'HvemErFagansvarlig']"></quiz-with-navigation>

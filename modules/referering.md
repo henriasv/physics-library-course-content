@@ -51,7 +51,7 @@ I tillegg til dette vil de fleste publikasjonskanaler ha egne regler for hvilken
 </div>
 
 ### Verktøy for referansehåndtering
-Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi programmer til å gjøre for oss. Tre populære alternativer er [Zotero](https://www.zotero.org), [Mendeley](https://www.mendeley.com) og [EndNote](http://endnote.com). Det finnes en guide til å komme i gang med Zotero på Universitetsbibliotekets [nettsider](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/). 
+Heldigvis er det få mennesker som skriver referanselisten manuelt. Dette har vi programmer til å gjøre for oss. Tre populære alternativer er [Zotero](https://www.zotero.org), [Mendeley](https://www.mendeley.com) og [EndNote](http://endnote.com). På Universitetsbibliotekets nettsider finnes det guider for [Zotero](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/) og for [EndNote](https://www.ub.uio.no/skrive-publisere/referere/endnote/index.html). 
 
 Selv om du bruker et verktøy for referansehåndtering er du ikke _helt_ trygg. Det kan snike seg inn feil, for eksempel ved at referanse-filen du lastet ned fra internett ikke inneholdt nok eller riktig informasjon i riktig format. Da er det greit å ha styring på hvordan det _skal_ se ut. 
 
