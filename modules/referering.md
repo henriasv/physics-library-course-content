@@ -9,18 +9,20 @@ En referanseliste kan for eksempel se slik ut:
 <div>
 <b-list-group>
   <b-list-group-item variant="secondary">
-      <h4>Utdrag fra en <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.144501">artikkel</a> i Physical Review Letters (PRL)</h4>
+      <h4>Utdrag fra en <a href="https://www.nature.com/articles/ncomms9743">artikkel</a> i Nature Communications:</h4>
       <p>Natural gas hydrates are ice-like crystalline substances in which gas molecules are physically trapped inside the polyhedral cavities of water molecules [1–3]. There are three common types of gas hydrate structures: sI hydrate, sII hydrate and sH hydrate [1]. They occur abundantly in both petrochemical production lines [4] and hostile environments such as seafloor sediments, arctic or permafrost regions and even the surfaces of other planets [5,6].
   </b-list-group-item>
 
 <b-list-group-item>[1] Sloan, E. D. Fundamental principles and applications of natural gas hydrates. Nature 426, 353–363 (2003).</b-list-group-item>
-<b-list-group-item>[2] Walsh, M. R., Koh, C. A., Sloan, E. D., Sum, A. K. & Wu, D. T. Microsecond </b-list-group-item>simulations of spontaneous methane hydrate nucleation and growth. Science 326, 1095–1098 (2009).
+<b-list-group-item>[2] Walsh, M. R., Koh, C. A., Sloan, E. D., Sum, A. K. & Wu, D. T. Microsecond simulations of spontaneous methane hydrate nucleation and growth. Science 326, 1095–1098 (2009).</b-list-group-item>
 <b-list-group-item>[3] Jacobson, L. C., Hujo, W. & Molinero, V. Amorphous precursors in the nucleation of clathrate hydrates. J. Am. Chem. Soc. 132, 11806–11811 (2010).</b-list-group-item>
 <b-list-group-item>[4] Hammerschmidt, E. G. Formation of gas hydrates in natural gas transmission Lines. Ind. Eng. Chem. 26, 851–855 (1934).</b-list-group-item>
 <b-list-group-item>[5] Kvenvolden, K. A. Gas hydrates: geological perspective and global change. Rev. Geophys. 31, 173–187 (1993).</b-list-group-item>
 <b-list-group-item>[6] Max, M. D. & Clifford, S. M. The state, potential distribution, and biological implications of methane in the Martian crust. J. Geophys. Res. 105, 4165–4171 (2000).</b-list-group-item>
 </b-list-group>
 </div>
+
+I eksempelet over har vi lagt inn første del av introduksjonen i en artikkel. Der finner vi *siteringer*. Disse viser til *referanser*, som er dem som er listet opp under teksten. 
 
 <div class="alert alert-primary">
 <h4> Kildehenvisning på universitetet (vs. vgs)</h4>
