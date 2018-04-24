@@ -22,7 +22,7 @@ En referanseliste kan for eksempel se slik ut:
 </b-list-group>
 </div>
 
-I eksempelet over har vi lagt inn første del av introduksjonen i en artikkel. Der finner vi *siteringer*. Disse viser til *referanser*, som er dem som er listet opp under teksten. 
+I eksempelet over har vi lagt inn første del av introduksjonen i en artikkel. Der finner vi *siteringer*. Disse viser til *referanser*, som er dem som er listet opp under teksten. Siteringene legges til i hovedteksten slik at vi klargjør hva vi bruker kildene til å belegge. Deretter kommer referansene til slutt slik at det blir mulig å finne fram til kildene.  
 
 <div class="alert alert-primary">
 <h4> Kildehenvisning på universitetet (vs. vgs)</h4>
