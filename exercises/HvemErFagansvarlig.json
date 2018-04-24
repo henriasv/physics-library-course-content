@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "Dan Michael og Henrik",
+            "Live og Heidi",
+            "Simen og Dag",
+            "Sunniva og Tone"
+        ],
+        "question": "Hvem er fagansvarlige i fysikk på ved Realfagsbiblioteket?"
+    },
+    "answer": {
+        "text": "Dan Michael og Henrik"
+    }
+}
