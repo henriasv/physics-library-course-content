@@ -10,15 +10,15 @@ En referanseliste kan for eksempel se slik ut:
 <b-list-group>
   <b-list-group-item variant="secondary">
       <h4>Utdrag fra en <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.144501">artikkel</a> i Physical Review Letters (PRL)</h4>
+      <p>Natural gas hydrates are ice-like crystalline substances in which gas molecules are physically trapped inside the polyhedral cavities of water molecules [1–3]. There are three common types of gas hydrate structures: sI hydrate, sII hydrate and sH hydrate [1]. They occur abundantly in both petrochemical production lines [4] and hostile environments such as seafloor sediments, arctic or permafrost regions and even the surfaces of other planets [5,6].
   </b-list-group-item>
-  <b-list-group-item>[1] E. D. Sloan, Nature (London) 426, 353 (2003).</b-list-group-item>
-  <b-list-group-item>[2] E. D. Sloan and C. A. Koh, Clathrate Hydrates of Natural Gases, 3rd ed. (CRC Press, Boca Raton, 2008).</b-list-group-item>
-  <b-list-group-item>[3] A. L. Ballard and E. D. Sloan, Fluid Phase Equilib. 218, 15 (2004).</b-list-group-item>
-  <b-list-group-item>[4] A. L. Ballard and E. D. Sloan, Fluid Phase Equilib. 216, 257 (2004).</b-list-group-item>
-  <b-list-group-item>[5] Z. Huo, K. Hester, E. D. Sloan, and K. T. Miller, AIChE J. 49, 1300 (2003).</b-list-group-item>
-  <b-list-group-item>[6] E. D. Sloan, C. A. Koh, and A. K. Sum, Energiespectrum 3, 1991 (2010).</b-list-group-item>
-  <b-list-group-item>[7] E. Suess, M. E. Torres, G. Bohrmann, R. W. Collier, J. Greinert, P. Linke, G. Rehder, A. Trehu, K. Wallmann, G. Winckler, and E. Zb-list-groupeger, Earth Planet. Sci. Lett. 170, 1 (1999).</b-list-group-item>
-  <b-list-group-item>[8] X. Liu and P. B. Flemings, Earth Planet. Sci. Lett. 241, 211 (2006).</b-list-group-item>
+
+<b-list-group-item>[1] Sloan, E. D. Fundamental principles and applications of natural gas hydrates. Nature 426, 353–363 (2003).</b-list-group-item>
+<b-list-group-item>[2] Walsh, M. R., Koh, C. A., Sloan, E. D., Sum, A. K. & Wu, D. T. Microsecond </b-list-group-item>simulations of spontaneous methane hydrate nucleation and growth. Science 326, 1095–1098 (2009).
+<b-list-group-item>[3] Jacobson, L. C., Hujo, W. & Molinero, V. Amorphous precursors in the nucleation of clathrate hydrates. J. Am. Chem. Soc. 132, 11806–11811 (2010).</b-list-group-item>
+<b-list-group-item>[4] Hammerschmidt, E. G. Formation of gas hydrates in natural gas transmission Lines. Ind. Eng. Chem. 26, 851–855 (1934).</b-list-group-item>
+<b-list-group-item>[5] Kvenvolden, K. A. Gas hydrates: geological perspective and global change. Rev. Geophys. 31, 173–187 (1993).</b-list-group-item>
+<b-list-group-item>[6] Max, M. D. & Clifford, S. M. The state, potential distribution, and biological implications of methane in the Martian crust. J. Geophys. Res. 105, 4165–4171 (2000).</b-list-group-item>
 </b-list-group>
 </div>
 
