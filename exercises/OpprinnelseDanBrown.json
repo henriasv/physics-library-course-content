@@ -4,6 +4,6 @@
         "question": "Finn Oria-oppføringen til boken \"Opprinnelse\" av Dan Brown. For å sjekke at du har funnet riktig bok kan du skrive inn bokens \"Objekt-ID\" i svarfeltet."  
     },
     "answer": {
-        "regex": "/^(?i)71550872880002201$/"
+        "regex": "/^(?i)71550872880002201|(?i)9788202586881$/"
     }
 }

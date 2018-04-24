@@ -1,11 +1,11 @@
 ### Vitenskapelig litteratur
-Vitenskapelig litteratur er vår felles nedtegning av kunnskap. Denne finnes i flere typer, slik som tidsskriftartikler og bøker. Det finnes *mye* vitenskapelig litteratur, og en hovedutfordring er å finne fram til litteratur som er relevant for det den skal brukes til. Dessuten er det viktig å sikre at man ikke bare finner litteratur som belyser et tema fra én side, dersom det finnes flere sider. For å finne fram bruker vi ofte søkemotorer. Det finnes også mange andre nyttige måter å finne fram på, for eksempel i feeden på *ResearchGate* (krever registrering) eller å spørre en fagperson (medstudent, gruppelærer, veileder etc.). Hver metode har sine fordeler og ulemper. 
+Vitenskapelig litteratur er vår felles nedtegning av kunnskap. Denne finnes i flere typer, slik som tidsskriftartikler og bøker. Det finnes *mye* vitenskapelig litteratur, og en hovedutfordring er å finne fram til litteratur som er relevant for det den skal brukes til. Dessuten er det viktig å sikre at man ikke bare finner litteratur som belyser et tema fra én side, dersom det finnes flere sider. For å finne fram bruker vi ofte søkemotorer. Det finnes også mange andre nyttige måter å finne fram på, for eksempel i feeden på *ResearchGate* (krever registrering) eller å spørre en fagperson (medstudent, gruppelærer, veileder etc.). Hver metode har sine fordeler og ulemper. I det følgende tar vi for oss søkemotorer. 
 
 ### Søkemotorer
 De fleste søkemotorer har en eller annen form for søkespråk. Det innebærer for eksempel at søkestrengen `elektromagnetisk stråling` blir til `elektromagnetisk AND stråling` og søkemotoren leter igjennom tekstene i databasen for å finne tekster som inneholder *både* ordet *elektromagnetisk* og ordet *stråling*. Man kan selv bruke søkemotorens søkespråk aktivt for å lage bedre søk. Det innebærer å bruke logiske operatorer (`AND`, `OR`, `XOR` etc.) og andre operatorer, f.eks. wildcardoperatoren `*`
 
 ### Finne bøker på biblioteket
-Universitetsbibliotekes søkemotor [_Oria_](http://www.oria.no) er det enkleste verktøyet for å finne bøker på biblioteket. Dersom du logger inn kan du bestille bøker. På Oria-nettsidene finnes det også en guide til hvordan man kan gjøre lure søk. For eksempel kan du, om du er usikker på om tittelen på en bok inneholder ordet `elektromagnetisk` eller `elektromagnetisme`, søke på `elektromagnetis*`
+Universitetsbibliotekes søkemotor [_Oria_](http://www.oria.no) er det enkleste verktøyet for å finne bøker på biblioteket. Dersom du logger inn kan du også *bestille* bøker. På Oria-nettsidene finnes det en guide til hvordan man kan gjøre lure søk. For eksempel kan du, om du er usikker på om tittelen på en bok inneholder ordet `elektromagnetisk` eller `elektromagnetisme`, søke på `elektromagnetis*`
 
 <quiz-with-navigation :exercises="['HvaGirFlereTreff','HvaGirFlereTreffStjerne', 'OpprinnelseDanBrown']"></quiz-with-navigation>
 
@@ -18,6 +18,16 @@ Når du sitter på et UiO-nett, for eksempel eduroam, har du tilgang til all lit
 Scopus og WebOfScience har nettsider med hjelp til hvordan man kan lage gode søk. Se etter *search tips* eller *tips to improve search*. Om du har satt opp et søk du er fornøyd med, er det også mulig å sette opp mail-varslig slik at du får beskjed når det kommer inn nye artikler som passer med søket. 
 
 Bruk Scopus, WebOfScience eller Google Scholar til å løse oppgavene under. 
+
+****
+Realfagstermer
+
+DOI
+
+Refine search (sidebar i mange søkemotorer)
+    Sorter på eg. siteringer, dato etc.
+****
+
 
 <quiz-with-navigation :exercises="['LIGO', 'SnakeRobotsGoldman']"></quiz-with-navigation>
 

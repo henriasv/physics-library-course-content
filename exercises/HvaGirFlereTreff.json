@@ -4,7 +4,7 @@
         "alternatives": [
             "svingninger AND bølger",
             "svingninger OR bølger",
-            "svingininger XOR bølger"
+            "svingninger XOR bølger"
         ],
         "question": "Hvilken søkestreng vil generelt sett gi flest treff?"
     },
