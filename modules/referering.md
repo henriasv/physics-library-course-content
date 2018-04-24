@@ -8,7 +8,7 @@ En referanseliste kan for eksempel se slik ut:
 
 <div>
 <b-list-group>
-  <b-list-group-item variant="secondary">
+  <b-list-group-item variant="tertiary">
       <h4>Utdrag fra en <a href="https://www.nature.com/articles/ncomms9743">artikkel</a> i Nature Communications:</h4>
       <p>Natural gas hydrates are ice-like crystalline substances in which gas molecules are physically trapped inside the polyhedral cavities of water molecules [1–3]. There are three common types of gas hydrate structures: sI hydrate, sII hydrate and sH hydrate [1]. They occur abundantly in both petrochemical production lines [4] and hostile environments such as seafloor sediments, arctic or permafrost regions and even the surfaces of other planets [5,6].
   </b-list-group-item>
