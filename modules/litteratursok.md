@@ -19,7 +19,7 @@ Scopus og WebOfScience har nettsider med hjelp til hvordan man kan lage gode sø
 
 Bruk Scopus, WebOfScience eller Google Scholar til å løse oppgavene under. 
 
-<quiz-with-navigation :exercises="['LIGO', 'SnakeRobotsGoldman']"></quiz-with-navigation>
+<quiz-with-navigation :exercises="['LIGO', 'SnakeRobotsGoldman', 'MestPopulærDryppendeKran']"></quiz-with-navigation>
 
 <div class="alert alert-primary">
 <h3> Fagterminologi </h3>

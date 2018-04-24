@@ -1,0 +1,15 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "leaky tap",
+            "dripping faucet",
+            "dripping tap",
+            "leaky faucet"
+        ],
+        "question": "Basert kun på antall treff hos Scopus og WebOfScience, hvilken av følgende ser ut til å være den mest populære betegnelsen på en dryppende kran?"
+    },
+    "answer": {
+        "text": "dripping faucet"
+    }
+}
