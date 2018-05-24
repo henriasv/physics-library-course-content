@@ -3,6 +3,9 @@
   "header" : "uio_realfagsbiblioteket_min.svg",
   "headertext" : "Innføring i <br>informasjonsbruk for fysikere",
   "footer" : "footer_ub.svg",
+  "options": {
+    "show_privacy_statement": true
+  },
   "modules": [
     {
       "id": "introduksjon",
