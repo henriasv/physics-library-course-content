@@ -13,7 +13,7 @@ Universitetsbibliotekes søkemotor [_Oria_](http://www.oria.no) er det enkleste 
 Når du sitter på et UiO-nett, for eksempel eduroam, har du tilgang til all litteraturen som Universitetsbiblioteket abonnerer på. For å få tilgang hjemmefra kan du [logge på med VPN](http://www.uio.no/tjenester/it/nett/utenfra/vpn/). 
 
 #### Scopus, WebOfScience og Google Scholar
-[Scopus](www.scopus.com), [WebOfScience](www.webofscience.com) og [Google Scholar](scholar.google.com) er svært populære søkemotorer for vitenskapelig litteratur. Scopus og WebOfScience tilbyr manuelt kvalitetskontrollerte databaser, mens Google Scholar gjør det den kan for å søke i alt som ser vitenskapelig ut. Generelt sett kan man si at i Scopus og WebOfScience har brukeren kontroll over søket og rangeringen av resultatene, mens i Google Scholar får man en treffliste som er sortert etter Google sin ranking-algoritme. 
+[Scopus](https://www.scopus.com), [WebOfScience](https://www.webofknowledge.com) og [Google Scholar](https://scholar.google.com) er svært populære søkemotorer for vitenskapelig litteratur. Scopus og WebOfScience tilbyr manuelt kvalitetskontrollerte databaser, mens Google Scholar gjør det den kan for å søke i alt som ser vitenskapelig ut. Generelt sett kan man si at i Scopus og WebOfScience har brukeren kontroll over søket og rangeringen av resultatene, mens i Google Scholar får man en treffliste som er sortert etter Google sin ranking-algoritme. 
 
 Scopus og WebOfScience har nettsider med hjelp til hvordan man kan lage gode søk. Se etter *search tips* eller *tips to improve search*. Om du har satt opp et søk du er fornøyd med, er det også mulig å sette opp mail-varslig slik at du får beskjed når det kommer inn nye artikler som passer med søket. 
 
