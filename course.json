@@ -1,8 +1,22 @@
 {
+  "version": 2,
   "repo": "henriasv/physics-library-course-content",
-  "header" : "uio_realfagsbiblioteket_min.svg",
-  "headertext" : "Innføring i <br>informasjonsbruk for fysikere",
-  "footer" : "footer_ub.svg",
+  "header": {
+    "background": "uio_realfagsbiblioteket_min.svg",
+    "text" : "Innføring i <br>informasjonsbruk for fysikere"
+  },
+  "footer": {
+    "publishers": [
+      {
+        "label": "Realfagsbiblioteket",
+        "link": "https://www.ub.uio.no/bibliotekene/ureal/ureal/"
+      }
+    ],
+    "editor": {
+      "label": "Nettredaktør",
+      "link": "mailto:ub-web@ub.uio.no"
+    }
+  },
   "options": {
     "show_privacy_statement": true
   },
