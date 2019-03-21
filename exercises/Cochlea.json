@@ -1,0 +1,16 @@
+{
+    "type": "MultipleChoiceQuestion",
+    "content": {
+        "alternatives": [
+            "En matematisk modell for vibrasjoner på basilarmembranen.",
+            "Geometrien til sneglehuset.",
+            "En øresimulator som beregner resonans i øret."
+        ],
+        "question": "Finn denne artikkelen: Braun K, Böhnke F, Stark T (2012) Three-dimensional representation of the human cochlea using micro-computed tomography data: Presenting an anatomical model for further numerical calculations. <i>Acta Otolaryngol</i> 132(6):603–613. Hva presenteres i artikkelen?"
+    },
+    "answer": {
+        "text": "Geometrien til sneglehuset"
+    }
+}
+
+
